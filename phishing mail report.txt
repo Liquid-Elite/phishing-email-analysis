@@ -1,0 +1,18 @@
+Subject: Your Account Has Been Suspended
+Sender: account-verification@amaz0n-security.com
+Link Target: http://amaz0n-security.com/verify
+
+Header Analysis:
+- Sender IP: 192.0.2.5 (not from Amazon)
+- SPF: Fail
+- DKIM: Missing
+- DMARC: Fail
+
+Phishing Indicators Identified:
+1. Spoofed sender domain
+2. Suspicious/mismatched URL
+3. Urgent language ("suspended", "verify now")
+4. No personalization ("Dear Customer")
+5. Grammar issues
+6. No DKIM/SPF/DMARC authentication
+7. Fake domain name
