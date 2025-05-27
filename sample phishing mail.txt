@@ -1,0 +1,13 @@
+From: Amazon Security <account-verification@amaz0n-security.com>
+Subject: Your Account Has Been Suspended
+
+Dear Customer,
+
+We have detected suspicious activity in your account. For your safety, we have temporarily suspended your account. To restore access, please verify your account immediately.
+
+Click here to verify: http://amaz0n-security.com/verify
+
+Failure to do so within 24 hours will result in permanent account suspension.
+
+Sincerely,
+Amazon Security Team
